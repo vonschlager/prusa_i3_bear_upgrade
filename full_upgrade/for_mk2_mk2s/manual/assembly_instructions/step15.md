@@ -7,7 +7,7 @@
 #### Parts  
 
 * 2x psu_upper_mount
-* 2x M4x12 screws (original ones used to assemble the PSU to the frame)
+* 2x M4x10 screws (original ones used to assemble the PSU to the frame)
 * 2x M5x10 screws
 * 2x Tee nuts
 * 1x M3 washer (from the original PSU lower mount)
